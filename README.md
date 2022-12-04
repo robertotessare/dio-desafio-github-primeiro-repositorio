@@ -1,5 +1,5 @@
 # dio-desafio-github-primeiro-repositorio
-Desafio de projeto sobre github curso java.
+Desafio de projeto sobre github curso .NET
 
 ### links:
 * [markdown.org](https://www.markdownguide.org/basic-syntax/)
